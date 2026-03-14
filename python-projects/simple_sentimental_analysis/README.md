@@ -10,6 +10,4 @@ Developed a program to analyze text sentiment (positive/negative/neutral) from r
 - Model training and evaluation  
 - Real-time prediction through Flask app
 
-**GitHub Repository:** [Project Source Code](YOUR_GITHUB_LINK_HERE)
-
 **Author:** Poornima Shanmuganathan Nadar – M.Sc. IT Final Year
